@@ -1,0 +1,27 @@
+Partlist
+
+Exported from BIRDS-5_FM_-Z_Panel_Ver3.brd at 5/19/2022 1:26 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package          Library      Position (mm)         Orientation
+
+C1       1uF            C0805            adafruit     (47.0662 54.4322)     MR0
+C2       1uF            C0805            adafruit     (45.5422 66.7258)     MR0
+D1                      SOD-123FL        adafruit     (61.056525 51.744884375) R90
+GND9     NICR_HOLE      NICR_HOLE        Nicr_hole    (7.564940625 14.41393125) R0
+HOLE1    NICR_HOLE      NICR_HOLE        Nicr_hole    (13.637140625 7.80988125) R0
+K3       AQZ10X         AQZ10X           b4_photomos  (30.5084 79.48)       MR270
+K4       AQZ10X         AQZ10X           b4_photomos  (69.3166 79.48)       MR270
+R1       1kohm          R0402            adafruit     (45.7708 63.3476)     MR180
+R6                      R0402            adafruit_ufl (33.0454 79.8416)     MR270
+R7                      R0402            adafruit_ufl (72.8538 80.137)      MR270
+R8       1              R1218            rcl          (52.9966 71.3994)     MR180
+R9       1              R1218            rcl          (46.4058 71.4502)     MR0
+U$1      HEADER12PIN    HEADER12PIN      BIRDS        (13.26 11.11)         MR90
+U$3      LMT84DCKT      SOT65P210X110-5N LMT84DCKT    (46.736 58.4962)      MR270
+U$4                     SC_A             SC_A         (87.9 43.7032)        R180
+U$5      SC_B           SC_B             SC_B         (88.75 89.8)          R180
+U2       TMP36FSZ       SOIC_N           TMP36FSZ     (10.1026 23.082)      MR90

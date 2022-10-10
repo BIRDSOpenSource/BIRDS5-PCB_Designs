@@ -1,0 +1,21 @@
+Partlist
+
+Exported from +Y_panel_EM_2U_Ver1_v1.brd at 11/11/2021 12:34 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part         Value          Package          Library   Position (mm)         Orientation
+
+C1           0.1uF          C0805            adafruit  (22.18 12.6868)       MR270
+C2           1uF            C0805            adafruit  (22.37 19.0568)       MR0
+D1                          SOD-123FL        adafruit  (34.41 48.1668)       R270
+D2                          SOD-123FL        adafruit  (34.04 159.3268)      R270
+R1           1kohm          R0402            adafruit  (22.4003 16.384)      MR180
+SOLARCELL_A                 SC_A             SC_A      (1.27 57.6168)        R0
+SOLARCELL_A1                SC_A             SC_A      (1.27 169.5168)       R0
+SOLARCELL_B  SC_B           SC_B             SC_B-2    (1.27 11.6068)        R0
+SOLARCELL_B1 SC_B           SC_B             SC_B-2    (1.27 123.4268)       R0
+U$1          HEADER12PIN    HEADER12PIN      BIRDS     (30.3 9.025)          MR90
+U$3          LMT84DCKT      SOT65P210X110-5N LMT84DCKT (17.59 14.8568)       MR270

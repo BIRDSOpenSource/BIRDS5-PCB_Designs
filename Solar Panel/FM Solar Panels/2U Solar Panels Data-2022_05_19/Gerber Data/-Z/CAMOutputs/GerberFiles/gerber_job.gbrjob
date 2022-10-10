@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2022-05-19T05:01:10Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "BIRDS-5_FM_-Z_Panel_Ver3"
+        },
+        "Owner": "Derrick Tebusweke <derrick.tebusweke128@mail.kyutech.jp>",
+        "Size": {
+            "X": 96,
+            "Y": 96
+        }
+    }
+}

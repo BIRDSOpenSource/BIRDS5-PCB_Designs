@@ -1,0 +1,18 @@
+Partlist
+
+Exported from BIRDS-5_FM_-Y Panel_Ver2.brd at 11/3/2021 7:24 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part        Value          Package          Library        Position (mm)         Orientation
+
+C1          0.1uF          C0805            adafruit       (25.7 17.66575625)    MR270
+C2          1uF            C0805            adafruit       (16.72 18.57575625)   MR270
+D1                         SOD-123FL        adafruit       (34.4608 47.9134375)  R270
+R1          1kohm          R0402            adafruit       (20.11 21.32575625)   MR0
+SOLARCELL_A                SC_A_SC_A        B5_EM_-Y_Panel (1.341121875 56.928559375) R0
+U$1         HEADER12PIN    HEADER12PIN      BIRDS          (30.18 8.88)          MR90
+U$2         SC_B-2_SC_B    SC_B-2_SC_B      B5_EM_-Y_Panel (1.49351875 10.830559375) R0
+U$3         LMT84DCKT      SOT65P210X110-5N LMT84DCKT      (21.67 17.79575625)   MR180

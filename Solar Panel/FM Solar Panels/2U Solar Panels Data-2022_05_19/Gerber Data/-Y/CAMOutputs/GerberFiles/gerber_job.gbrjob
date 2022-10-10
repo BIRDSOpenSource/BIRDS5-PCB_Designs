@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-11-11T04:03:39Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.6,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "-Y_panel_EM_2U_Ver1_v1"
+        },
+        "Owner": "Derrick Tebusweke <derrick.tebusweke128@mail.kyutech.jp>",
+        "Size": {
+            "X": 82.6,
+            "Y": 219.1
+        }
+    }
+}

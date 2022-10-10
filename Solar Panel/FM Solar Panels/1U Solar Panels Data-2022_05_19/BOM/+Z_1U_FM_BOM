@@ -1,0 +1,19 @@
+Partlist
+
+Exported from BIRDS-5_FM_+Z Panel_Ver2.brd at 11/3/2021 7:21 PM
+
+EAGLE Version 9.6.2 Copyright (c) 1988-2020 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value          Package          Library   Position (mm)         Orientation
+
+C1       1uF            C2012            adafruit  (15.3 78.38)          MR0
+C2                      C2012            adafruit  (37.1028 77.2838)     MR270
+D1                      SOD-123FL        adafruit  (36.28 40.92)         R0
+D2                      SOD-123FL        adafruit  (76.8 56.24)          R270
+R1                      R0402            adafruit  (30.03 78.31)         MR180
+U$1      HEADER12PIN    HEADER12PIN      BIRDS     (17.105 83.46)        MR90
+U$3      LMT84DCKT      SOT65P210X110-5N LMT84DCKT (23.39 79.06)         MR0
+U$4      SC_C           SC_C             SC_C      (8.125 52.54)         R0
+U$5      SC_C           SC_C             SC_C      (8.125 6.38)          R0

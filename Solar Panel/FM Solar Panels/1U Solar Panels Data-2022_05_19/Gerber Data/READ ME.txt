@@ -1,0 +1,6 @@
+IMPORTANT NOTICE ON -Z PANEL:
+- BIRDS5 had developed a DLP (Double Langmuir Probe) mission and some of that mission's components were located on the -Z panel. They are still on the -Z board in case you want to implement the DLP mission in your project.
+- If you do not intend to implement the DLP mission in your project, please do not purchase the components or solder them onto the -Z board.
+-In this version, we isolated those DLP components in the Schematic and attached labels to the pins they are supposed to be connected to on the 12 pin connector of the -Z panel in case you need 
+to implement DLP mission.
+-If you need to implement the DLP mission, connect those labled componets in the schematic to the connector and proceed with ordering the board.
