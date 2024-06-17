@@ -1,9 +1,6 @@
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
 
 <a href="https://lean-sat.org/opensource/">
-  <img alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
+  <img align="center" alt="Join the monthly community webinars" src="https://img.shields.io/badge/join_our-monthly_webinars-orange" />
 </a>
 
 <div align="center">
