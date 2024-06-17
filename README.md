@@ -40,19 +40,40 @@ BIRDS-5 has 5 main missions in total; attitude visualisation, Imaging classifica
 
 ## Organisation structure
 In this repository you will find four main folders
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
-/Antenna Panel contains 
-/Back Plane Board contains
-/Rear Access Board contains two folders 
-    /1U_Rear_Access_Board
-    /2U_Rear_Access_Board
+├── Antenna Panel
+│   ├── file11.ext
+│   └── file12.ext
+├── Back Plane
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+├── Rear Access Board
+│   ├── file21.ext
+│   ├── file22.ext
+│   └── file23.ext
+├── .gitattributes
+├── LICENSE.md
+└── README.md
+
+`/Antenna Panel contains `
+
+`/Back Plane Board contains`
+
+`/Rear Access Board contains two folders `
+    `/1U_Rear_Access_Board`
+    `/2U_Rear_Access_Board`
+    
 /Solar Panel
 
 ## How to use
->![NOTE]
+> [!CAUTION]
 > The files `.sch` and `.brd` files in this repositiry were created using Eagle software.
-
+ 
 For those that want to import these files into KiCAD here's how you do it. 
+
+> [!NOTE]
+> If you are wondering "What are the .s#1 and .b#1 files?"
+> They are backup files. Each time you save your work, the previous copy becomes one of them, in case you decide you were being a muppet, or just change your mind.
 
 ## I like this project, can I help you?
 You are welcome 🙂
@@ -62,3 +83,5 @@ You are welcome 🙂
 * If you will find some errors, report them in Issues 🐞
 * Try Birds designs on some real computer and let us know how it worked in Discussions. 💬
 * We would greatly appreciate if you would also tell others about this ecosystem, it helps us to improve BIRDS Open Source. Thank you!
+
+[License for this project](docs/LICENSE.md)
