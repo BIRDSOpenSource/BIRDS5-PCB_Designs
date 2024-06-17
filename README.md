@@ -1,7 +1,7 @@
 
-<p align="center">
-<a href="https://lean-sat.org/opensource/" class="button icon calendar">Join Monthly Webinar</a>
-</p>
+<a href="https://lean-sat.org/opensource/">
+  <img alt="Join the monthly community webinars" src="https://withspectrum.github.io/badge/badge.svg" />
+</a>
 
 <div align="center">
 <img  width="25%" src="https://github.com/BIRDSOpenSource/BIRDS5-CAD/assets/100206676/fd3ff8ed-76a4-4b20-aec6-1a9d83f25005">
