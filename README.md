@@ -361,7 +361,7 @@ In this repository you will find four main folders
  
 For those that want to import these files into 
 KiCAD7 [here's how you do it](https://community.element14.com/technologies/open-source-hardware/b/blog/posts/working-with-kicad-7-importing-eagle-files) 
-KiCAD5.1 [here's how you do it](https://www.youtube.com/watch?v=RBc02MwpKxk&t=1s)
+ or KiCAD5.1 [here's how you do it](https://www.youtube.com/watch?v=RBc02MwpKxk&t=1s).
 
 > [!NOTE]
 > If you are wondering "What are the .s#1 and .b#1 files?"
