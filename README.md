@@ -40,6 +40,7 @@ BIRDS-5 has 5 main missions in total; attitude visualisation, Imaging classifica
 
 ## Organisation structure
 In this repository you will find four main folders
+```bash
 ├── Antenna Panel
 │   ├── file11.ext
 │   └── file12.ext
@@ -54,6 +55,7 @@ In this repository you will find four main folders
 ├── .gitattributes
 ├── LICENSE.md
 └── README.md
+```
 
 `/Antenna Panel contains `
 
