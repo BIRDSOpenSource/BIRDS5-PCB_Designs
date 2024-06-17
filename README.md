@@ -129,16 +129,6 @@ In this repository you will find four main folders
             │   └── -Z
             └── PBan Parts Lists
 ```
-
-`/Antenna Panel` contains
-
-`/Back Plane Board` contains
-
-`/Rear Access Board` contains two folders 
-
-    `/1U_Rear_Access_Board`
-    
-    `/2U_Rear_Access_Board`
     
 `/Solar Panel` folders contains PCB and schematic file for the 1U and 2U solar panel configurations. Within this folder are also pictures from the Solar Panel Attachment Training to aid in understanding how to attaach the solar cells to the panels. 
 
