@@ -39,10 +39,20 @@ Launch Date: 21st November 2022
 BIRDS-5 has 5 main missions in total; attitude visualisation, Imaging classification Mission (IMG-CLS) and Store & Forward (SF- WARD), Particle Instrument for Nano-satellite(PINO), APRS-Digipeater mission (APRS-DP) 
 
 ## Organisation structure
+In this repository you will find four main folders
+[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+/Antenna Panel contains 
+/Back Plane Board contains
+/Rear Access Board contains two folders 
+    /1U_Rear_Access_Board
+    /2U_Rear_Access_Board
+/Solar Panel
 
+## How to use
+>![NOTE]
+> The files `.sch` and `.brd` files in this repositiry were created using Eagle software.
 
-## Features
-
+For those that want to import these files into KiCAD here's how you do it. 
 
 ## I like this project, can I help you?
 You are welcome 🙂
