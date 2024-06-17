@@ -353,13 +353,15 @@ In this repository you will find four main folders
     `/1U_Rear_Access_Board`
     `/2U_Rear_Access_Board`
     
-`/Solar Panel` contains two folders 
+`/Solar Panel` folders contains PCB and schematic file for the 1U and 2U solar panel configurations. Within this folder are also pictures from the Solar Panel Attachment Training to aid in understanding how to attaach the solar cells to the panels. 
 
 ## How to use
 > [!CAUTION]
 > The files `.sch` and `.brd` files in this repositiry were created using Eagle software.
  
-For those that want to import these files into KiCAD here's how you do it. 
+For those that want to import these files into 
+KiCAD7 [here's how you do it](https://community.element14.com/technologies/open-source-hardware/b/blog/posts/working-with-kicad-7-importing-eagle-files) 
+KiCAD5.1 [here's how you do it](https://www.youtube.com/watch?v=RBc02MwpKxk&t=1s)
 
 > [!NOTE]
 > If you are wondering "What are the .s#1 and .b#1 files?"
